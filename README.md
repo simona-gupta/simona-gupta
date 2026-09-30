@@ -32,4 +32,4 @@ Working on virtualization infrastructure and CI for KubeVirt.
 
 ### 📫 Connect
 - 📧 Email: simonagupta2@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/simona-gupta/
+- 💼 LinkedIn: [Simona Gupta](https://www.linkedin.com/in/simona-gupta/)
